@@ -1,5 +1,15 @@
-i will now politely ask you to go away
-<!---
-Cybertet/Cybertet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Introduction
+I am an innocent student forced to make a GitHub account. Not that GitHub is bad tho.
+## Socials
+[![Youtube](https://cdn-icons-png.flaticon.com/128/174/174883.png)](https://youtube.com/channel/UCUo3x3PRlfb3HzzsPuOQ/)
+
+Youtube
+## Games
+[Minecraft](https://minecraft.net/)
+
+[Terraria](https://store.steampowered.com/app/105600/Terraria/)
+
+[Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)
+
+[TETR.IO](https://tetr.io/)
+

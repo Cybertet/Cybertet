@@ -1,7 +1,7 @@
 # Introduction
-I am an innocent student forced to make a GitHub account. Not that GitHub is bad tho.
+h
 ## Socials
-dont want to leave anything here yet
+
 
 Youtube
 ## Games
